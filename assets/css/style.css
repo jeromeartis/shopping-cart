@@ -1,0 +1,34 @@
+footer{
+  height:130px;
+  margin-top: 960px;
+  background-color: lightgrey;
+  text-align: center
+}
+p{
+  height: 50px;
+  width: 100px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.text-muted {
+  text-align: center;
+}
+
+body {
+  height: 600px;
+}
+.list3 {
+  float:right;
+}
+
+hr {
+  border: 1px solid darkgrey;
+}
+#deleteItem, #submit, #filter {
+  border: 3px solid black;
+  border-radius: 20px;
+}
+#deleteItem:hover, #submit:hover,#filter:hover {
+  background-color: green;
+}
